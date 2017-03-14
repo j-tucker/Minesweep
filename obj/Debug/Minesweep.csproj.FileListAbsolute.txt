@@ -1,0 +1,12 @@
+E:\Box\util\p4src\sb\jamest\AXAProject\Minesweep\bin\Debug\Minesweep.exe.config
+E:\Box\util\p4src\sb\jamest\AXAProject\Minesweep\bin\Debug\Minesweep.exe
+E:\Box\util\p4src\sb\jamest\AXAProject\Minesweep\bin\Debug\Minesweep.pdb
+E:\Box\util\p4src\sb\jamest\AXAProject\Minesweep\obj\Debug\Minesweep.csprojResolveAssemblyReference.cache
+E:\Box\util\p4src\sb\jamest\AXAProject\Minesweep\obj\Debug\Minesweep.exe
+E:\Box\util\p4src\sb\jamest\AXAProject\Minesweep\obj\Debug\Minesweep.pdb
+C:\util\src\Minesweep\bin\Debug\Minesweep.exe.config
+C:\util\src\Minesweep\bin\Debug\Minesweep.exe
+C:\util\src\Minesweep\bin\Debug\Minesweep.pdb
+C:\util\src\Minesweep\obj\Debug\Minesweep.csprojResolveAssemblyReference.cache
+C:\util\src\Minesweep\obj\Debug\Minesweep.exe
+C:\util\src\Minesweep\obj\Debug\Minesweep.pdb
